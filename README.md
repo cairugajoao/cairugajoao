@@ -12,6 +12,4 @@ My main academic interests include:
 
 - Machine Learning and Deep Learning
 - Data Visualization and Analysis
-- Graph Theory
-
-I'm particularly interested in research that leverages data-driven methods to solve real-world problems across diverse domains.
+- Time Series Forecasting

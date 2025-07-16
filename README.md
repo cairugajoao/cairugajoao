@@ -7,8 +7,8 @@ Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 ---
 ## 🎓 About Me
 
-I am currently pursuing a **Bachelor’s degree in Data Science and Artificial Intelligence** at **PUCRS**.  
-My main academic interests include:
+I'm currently in the final year of my Bachelor’s degree in Data Science and Artificial Intelligence at PUCRS, and I’m set to graduate by the end of 2025.
+My main  interests include:
 
 - Machine Learning and Deep Learning
 - Data Visualization and Analysis
